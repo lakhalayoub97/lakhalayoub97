@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header_banner.png" width="100%" alt="Ayoub Lakhal — Junior Web Developer" />
+  <img src="assets/header_banner2.png" width="100%" alt="Ayoub Lakhal — Junior Web Developer" />
 </p>
 
 ---
