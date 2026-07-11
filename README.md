@@ -1,18 +1,5 @@
 <p align="center">
-  <img src="assets/ayoub.jpg" width="150" style="border-radius:50%;" alt="Ayoub Lakhal" />
-</p>
-
-<h1 align="center">Hi, I'm Ayoub Lakhal 👋</h1>
-<h3 align="center">Junior Web Developer — Freelance | Front-End & Back-End</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B9EFF&center=true&vCenter=true&width=550&lines=Building+responsive+web+apps+with+Laravel+%26+React;Turning+ideas+into+clean%2C+user-friendly+products;Always+learning%2C+always+shipping." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakhalayoub97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lakhalayoub118@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Meknès,_Morocco-3B9EFF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="assets/header_banner.png" width="100%" alt="Ayoub Lakhal — Junior Web Developer" />
 </p>
 
 ---
